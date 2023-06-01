@@ -8,9 +8,13 @@ Resources to learn stuffs.
 - <https://github.com/sindresorhus/awesome>
 - <https://github.com/dipakkr/A-to-Z-Resources-for-Students>
 
+***
+
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/x/2023/)
+
+***
 
 ## Programming Languages
 
@@ -21,3 +25,34 @@ Resources to learn stuffs.
 ### Rust
 
 - [Rust book](https://doc.rust-lang.org/book/)
+
+***
+
+## Web Development
+
+***
+
+## AI
+
+***
+
+## Competitive Programming
+
+***
+
+## CTF
+
+***
+
+## Software Engineering
+
+***
+
+## IOT
+
+*** 
+
+## Security and Privacy
+
+***
+
