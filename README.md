@@ -56,3 +56,7 @@ Resources to learn stuffs.
 
 ***
 
+## Clean Code
+
+[ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU)
+
